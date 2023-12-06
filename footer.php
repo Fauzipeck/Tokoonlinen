@@ -19,10 +19,10 @@
         <div class="footer-contents">
           <div class="footer-shop">
             <h5>Shop</h5>
-            <a href="#">Sepatu</a>
-            <a href="#">Kaos</a>
-            <a href="#">Topi</a>
-            <a href="#">Jaket</a>
+            <a href="#">Xiaomi</a>
+            <a href="#">Realme</a>
+            <a href="#">Vivo</a>
+            <a href="#">Samsung</a>
           </div>
           <div class="footer-help">
             <h5>Bantuan</h5>
@@ -48,8 +48,8 @@
         </div>
         <div class="footer-line"></div>
         <div class="footer-end">
-          <h3>Buticks.</h3>
-          <p>Copyright © <?= date("Y") ?> Buticks. All rights reserved.</p>
+          <h3>Ibennn.</h3>
+          <p>Copyright © <?= date("Y") ?> Ibennn. All rights reserved.</p>
         </div>
       </div>
     </div>

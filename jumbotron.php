@@ -17,25 +17,25 @@
     <!-- Container -->
     <div class="container">
       <div class="jumbo-pict">
-        <img src="./gambar/bg-jumbo-fix.png">
+        <img src="./gambar/poco-f5.png">
       </div>
       <div class="jumbo-content">
         <div class="left-jb">
-          <h4>New Arrival</h4>
+          <!-- <h4>Poco f5</h4>
           <h1>Everyone's</h1>
-          <h1>Collections an<span>d Style</span></h1>
+          <h1>Collections an<span>d Style</span></h1> -->
           <div class="jumbo-text">
             <div class="line-height"></div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi, aperiam esse. Enim harum cum ullam iste reiciendis! Saepe aperiam repudiandae cupiditate autem quis amet minima?.</p>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi, aperiam esse. Enim harum cum ullam iste reiciendis! Saepe aperiam repudiandae cupiditate autem quis amet minima?.</p> -->
           </div>
-          <a href="produk.php">Beli Sekarang</a>
+          <!-- <a href="produk.php">Beli Sekarang</a> -->
         </div>
         <div class="right-jb">
           <div class="p-up">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, molestias!</p>
+            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, molestias!</p> -->
           </div>
           <div class="p-down">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, molestias!</p>
+            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, molestias!</p> -->
           </div>
         </div>
       </div>

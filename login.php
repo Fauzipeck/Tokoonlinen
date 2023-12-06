@@ -23,14 +23,14 @@ if (isset($_SESSION['status_login'])) {
       <div class="container">
         <nav class="nav-login">
           <div class="nav-login-title">
-            <h3>Buticks.</h3>
-            <p>Semua bisa dengan klik</p>
+            <h3>Ibennn.</h3>
+            <p>Kepercayaan yang mendunia</p>
           </div>
         </nav>
         <div class="login-content">
           <div class="login-session">
             <div class="login-title">
-              <h2>Masuk dengan akunmu</h2>
+              <h2>Masukkan akunmu</h2>
             </div>
             <div class="login-content-input">
               <form action="proses_login.php" method="post" enctype="multipart/form-data">

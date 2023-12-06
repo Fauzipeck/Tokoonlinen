@@ -17,13 +17,8 @@
         <form action="hasil_cari.php" method="POST">
           <select name="search" onchange='if(this.value != 0) { this.form.submit(); }'>
             <option value="Kategori">Pilih Kategori</option>
-            <option value="Semua">Semua</option>
-            <option value="Jas">Jas</option>
-            <option value="Kaos">Kaos</option>
-            <option value="Kemeja">Kemeja</option>
-            <option value="Sepatu">Sepatu</option>
-            <option value="Sandal">Sandal</option>
-            <option value="Topi">Topi</option>
+            <option value="Semua">Gaming</option>
+            <option value="Jas">All Rounder</option>
           </select>
         </form>
       </div>

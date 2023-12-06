@@ -17,7 +17,7 @@
     <!-- Container -->
     <div class="container">
       <div class="benefit-title">
-        <h3><strong>Benefit</strong> of choosing our services</h3>
+        <h3><strong>Benefit</strong> of choosing our product</h3>
         <div class="benefit-title-sub">
           <div class="line-title-benefit"></div>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis dolorum voluptate autem odio.</p>

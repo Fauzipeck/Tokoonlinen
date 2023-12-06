@@ -23,7 +23,7 @@ if ($_SESSION['status_login'] != true) {
 <body>
   <div class="container">
     <header>
-      <h3 id="logo-company">BUTICKS.</h3>
+      <h3 id="logo-company">Ibennn.</h3>
       <nav>
         <ul>
           <li><a href="dashboard.php">Beranda</a></li>

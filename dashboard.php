@@ -13,10 +13,10 @@
   <?php
   include "navbar.php";
   include "jumbotron.php";
-  include "brand.php";
+  // include "brand.php";
   include "benefit.php";
   // include "card.php";
-  include "top_selling.php";
+  // include "top_selling.php";
   include "footer.php"
   ?>
 

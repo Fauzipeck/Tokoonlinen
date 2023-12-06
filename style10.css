@@ -86,6 +86,8 @@ nav li a {
 .jumbotron .jumbo-pict img {
   position: absolute;
   z-index: 0;
+  /* width: 50%; */
+  height: 50%;
 }
 
 .jumbo-content {
