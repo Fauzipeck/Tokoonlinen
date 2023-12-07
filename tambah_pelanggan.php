@@ -15,7 +15,7 @@
         <div class="container">
             <nav class="nav-signup">
                 <div class="nav-signup-title">
-                    <h3>Buticks.</h3>
+                    <h3>ASIKX.</h3>
                     <p>Semua bisa dengan klik</p>
                 </div>
             </nav>

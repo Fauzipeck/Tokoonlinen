@@ -12,7 +12,7 @@
 
   <?php
   include "navbar.php";
-  include "jumbotron.php";
+  
   // include "brand.php";
   include "benefit.php";
   // include "card.php";

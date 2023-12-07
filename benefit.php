@@ -20,8 +20,7 @@
         <h3><strong>Benefit</strong> of choosing our product</h3>
         <div class="benefit-title-sub">
           <div class="line-title-benefit"></div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis dolorum voluptate autem odio.</p>
-        </div>
+         </div>
 
       </div>
       <div class="benefit-content">

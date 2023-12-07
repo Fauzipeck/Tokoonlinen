@@ -23,7 +23,7 @@ if (isset($_SESSION['status_login'])) {
       <div class="container">
         <nav class="nav-login">
           <div class="nav-login-title">
-            <h3>Ibennn.</h3>
+            <h3>Fauzi</h3>
             <p>Kepercayaan yang mendunia</p>
           </div>
         </nav>
